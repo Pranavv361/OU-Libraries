@@ -17,7 +17,7 @@ class CNC:
         url = self.apiurl+ '/documents'
         query = "PY=2022"  # Web of Science advanced search query
         database = "WOS"  # Web of Science Database abbreviation
-        limit = 5  # Limit of records on the page (1-50)
+        limit = 50  # Limit of records on the page (1-50)
         page = 1  # Result page
         sort_field = "LD+A"  # Order by field(s)
     

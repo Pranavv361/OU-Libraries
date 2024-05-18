@@ -1,1 +1,1 @@
-AKEY = '9310ffdd868d9a1d4c70b48446b204f18cb5f8cb'
+AKEY = 'Enter you API Key here'

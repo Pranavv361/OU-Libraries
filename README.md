@@ -1,7 +1,7 @@
 # Open Access Designations Analysis
 
 ## Overview
-This Python script analyzes open access designations in a dataset of journal articles stored in an Excel file. It counts the number of articles with different open access designations and creates separate spreadsheets for each designation in a new Excel file.
+This Python script analyzes open access designations in a dataset of journal articles stored in an Excel file. It counts the number of articles with different open access designations and creates separate spreadsheets for each designation in a new Excel file. Python files are an example of Web of Science Starter API.
 
 ## Usage
 1. Clone this repository: `git clone https://github.com/Pranavv361/Open-Access-Analysis.git`
