@@ -1,1 +1,1 @@
-AKEY = 'Enter you API Key here'
+AKEY = 'Enter your API Key here'
